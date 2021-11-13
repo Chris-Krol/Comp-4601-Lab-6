@@ -1,0 +1,15 @@
+{
+  "name": "lab-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lab6.js",
+  "dependencies": {
+    "ml-matrix": "^6.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
